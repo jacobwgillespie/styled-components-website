@@ -1,7 +1,7 @@
 import React from 'react';
 import styled, { css } from 'styled-components';
-import { Github, Bitbucket, Gitlab, Git } from 'styled-icons/fa-brands';
-// import { Globe } from 'styled-icons/boxicons-regular';
+import { Github, Bitbucket, Gitlab, Git } from '@styled-icons/fa-brands';
+// import { Globe } from '@styled-icons/boxicons-regular';
 import { phone } from '../../utils/media';
 
 const SlideMeta = styled.div`
